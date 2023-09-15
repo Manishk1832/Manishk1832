@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Verada Technologies [Politicksnow](https://politicksnow.in/)
 
-- 🌱 I’m currently learning **React,DSA and**
+- 🌱 I’m currently learning **React,DSA and node**
 
 - 💬 Ask me about **Javascript and node**
 
