@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishk1832&label=Profile%20views&color=0e75b6&style=flat" alt="manishk1832" /> </p>
 
-- 🔭 I’m currently working on Verada Technologies [Politicksnow](https://politicksnow.in/)
+- 🔭 I’m currently working on Verada Technologies [Vereda.co.in](https://vereda.co.in/)
 
 - 🌱 I’m currently learning **React,DSA and node**
 
