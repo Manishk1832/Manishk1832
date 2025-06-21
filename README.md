@@ -8,13 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishk1832&label=Profile%20views&color=0e75b6&style=flat" alt="manishk1832" /> </p>
 
-- 🔭 I’m currently working on Verada Technologies [Vereda.co.in](https://vereda.co.in/)
 
-- 🌱 I’m currently learning **React,DSA and node**
+- 🔭 I was previously working at Verada Technologies vereda.co.in
 
-- 💬 Ask me about **Javascript and node**
+- 🌱 I’m currently learning React, DSA, and Node
 
-- 📫 How to reach me **manish.devloop@gmail.com**
+- 💬 Ask me about JavaScript and Node
+
+- 📫 How to reach me: manish.devloop@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
